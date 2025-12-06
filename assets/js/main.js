@@ -1,1 +1,1 @@
-alert("Welcome to Employee Leave Management System :) ");
+console.log("My JS file is working!");
