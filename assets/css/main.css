@@ -211,3 +211,6 @@ input:focus {
 select{
     width: fit-content;
 }
+form .cart select{
+    border-color: #e2dddd;
+}
